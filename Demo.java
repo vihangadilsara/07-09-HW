@@ -4,9 +4,12 @@ class Example{
 		int y = 100;
 		int x;
 		
-		if(100 == 100) { // Legal
+		if(y == 100) {
 			x = 200;
+		} else {
+			x = 300;
 		}
+
 		
 		System.out.println(x);
 	}

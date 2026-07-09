@@ -7,7 +7,7 @@ class Example{
 		if(y == 100) {
 			x = 200;
 		} else {
-			x = 300;
+			
 		}
 
 		

@@ -4,7 +4,7 @@ class Example{
 		int y = 100;
 		int x;
 		
-		if(y == 100) { // Illegal
+		if(100 == 100) { // Legal
 			x = 200;
 		}
 		
